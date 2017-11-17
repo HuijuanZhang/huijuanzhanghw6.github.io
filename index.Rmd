@@ -3,7 +3,6 @@ title: "P8105 Homework 6"
 author: "Huijuan Zhang"
 ---
 Hello! This is a website for data science homework 6!  
-I worked with Yeyi Zhang (UNI: yz3300) for this homework.
 
 In this homework, I use __Instacart__ data.
 
