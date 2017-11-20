@@ -4,8 +4,7 @@ author: "Huijuan Zhang"
 ---
 Hello! This is a website for data science homework 6!  
 
-In this homework, I use __Instacart__ data.
-
+In this homework, We use [Instacart](http://jeffgoldsmith.com/DSI/dataset_instacart.html) data. We created a flexdashboard using plotly for interactive graphics in __Problem 1__. Then created a shiny-enabled dashboard in __Problem 2__ based on Problem 1.
 
 
 Dashboard from Problem 1 is [here](problem1/problem1.html).
